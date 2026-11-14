@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DockFlow</string>
+    <string name="module_status">LSPosed / Xposed Module</string>
+
+    <!-- Instagram Section -->
+    <string name="section_instagram">Instagram UI Mods</string>
+    <string name="pref_floating_nav_title">Floating Bottom Navigation Bar</string>
+    <string name="pref_floating_nav_desc">Transforms Instagram\u0027s docked navbar into an elevated floating island pill.</string>
+
+    <!-- Threads Section -->
+    <string name="section_threads">Threads UI Mods</string>
+    <string name="pref_threads_floating_nav_title">Floating Bottom Navigation Bar</string>
+    <string name="pref_threads_floating_nav_desc">Transforms Threads docked navigation bar into an elevated floating island pill.</string>
+    <!-- Instructions -->
+    <string name="instructions_title">Setup &amp; Activation</string>
+    <string name="instructions_desc">1. Open LSPosed / Vector Manager
+2. Enable DockFlow
+3. Select Instagram &amp; Threads in scope
+4. Restart Instagram &amp; Threads</string>
+</resources>

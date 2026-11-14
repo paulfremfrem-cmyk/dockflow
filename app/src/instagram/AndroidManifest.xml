@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <queries>
+        <package android:name="com.instagram.android" />
+        <package android:name="com.instagram.barcelona" />
+    </queries>
+
+    <application>
+        <meta-data
+            android:name="xposeddescription"
+            android:value="Custom features, Developer Options &amp; media tools for Instagram &amp; Threads." />
+    </application>
+
+</manifest>

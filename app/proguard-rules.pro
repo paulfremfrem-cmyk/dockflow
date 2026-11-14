@@ -1,0 +1,4 @@
+-keep class com.kinko.dockflow.MainHook { *; }
+-keepclassmembers class com.kinko.dockflow.MainHook { *; }
+-keep class com.kinko.dockflow.hooks.** { *; }
+-keepclassmembers class com.kinko.dockflow.hooks.** { *; }
